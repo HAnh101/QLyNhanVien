@@ -1,0 +1,65 @@
+body {
+    color: white;
+    background-color: black;
+}
+.header {
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    background-color: rgba(159, 110, 175, 0.795);
+}
+
+.header > div{
+    background-color: rgb(226, 159, 225);
+    color: white;
+    width: 350px;
+    margin: 5px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.container {
+    background-color: rgb(226, 159, 225);
+}
+
+.employee-list {
+    flex-direction: column;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content:space-between;
+    padding: 10px;
+}
+
+.employee-list >li {
+    flex-direction: row;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content:space-between;
+    padding: 10px;
+    background-color: rgb(125, 83, 141);
+}
+  
+.employee-list > li > span{
+    flex-direction: row;
+    display: flex;
+    background-color: rgb(226, 159, 225);
+    color: white;
+    width: 340px;
+    margin: 5px;
+    line-height: 75px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.form-infor {
+    border-style: solid ;
+    border: 10px 10px white;
+    font-size: 20px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+

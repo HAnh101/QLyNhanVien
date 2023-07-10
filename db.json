@@ -1,0 +1,77 @@
+{
+    "EmpData":
+    [
+        {
+        "id": 1,
+        "first_name": "Brynne",
+        "last_name": "Juszkiewicz",
+        "email": "bjuszkiewicz0@comcast.net",
+        "create_at": "2023-03-09T17:44:36Z",
+        "salary": 21337.97
+        }, {
+        "id": 2,
+        "first_name": "Terza",
+        "last_name": "Pym",
+        "email": "tpym1@redcross.org",
+        "create_at": "2023-05-01T01:54:52Z",
+        "salary": 40099.21
+        }, {
+        "id": 3,
+        "first_name": "Ludovico",
+        "last_name": "Grammer",
+        "email": "lgrammer2@redcross.org",
+        "create_at": "2022-11-11T15:37:13Z",
+        "salary": 18646.39
+        }, {
+        "id": 4,
+        "first_name": "Evelyn",
+        "last_name": "Walker",
+        "email": "ewalker3@blogspot.com",
+        "create_at": "2023-03-19T08:55:39Z",
+        "salary": 47527.12
+        }, {
+        "id": 5,
+        "first_name": "Noella",
+        "last_name": "O'Dunneen",
+        "email": "nodunneen4@barnesandnoble.com",
+        "create_at": "2022-07-26T11:17:57Z",
+        "salary": 7527.16
+        }, {
+        "id": 6,
+        "first_name": "Carry",
+        "last_name": "Beetham",
+        "email": "cbeetham5@domainmarket.com",
+        "create_at": "2023-05-22T07:41:50Z",
+        "salary": 40576.49
+        }, {
+        "id": 7,
+        "first_name": "Genevieve",
+        "last_name": "Carwithen",
+        "email": "gcarwithen6@wikipedia.org",
+        "create_at": "2023-04-11T04:21:35Z",
+        "salary": 1465.6
+        }, {
+        "id": 8,
+        "first_name": "Rafaelita",
+        "last_name": "Tuxell",
+        "email": "rtuxell7@sfgate.com",
+        "create_at": "2023-02-12T05:01:56Z",
+        "salary": 26696.91
+        }, {
+        "id": 9,
+        "first_name": "Lorianne",
+        "last_name": "Roffe",
+        "email": "lroffe8@mlb.com",
+        "create_at": "2022-11-17T02:35:55Z",
+        "salary": 49938.01
+        }, {
+        "id": 10,
+        "first_name": "Harli",
+        "last_name": "Britch",
+        "email": "hbritch9@netvibes.com",
+        "create_at": "2022-08-12T06:20:08Z",
+        "salary": 19698.49
+      }
+    ]      
+      
+}
